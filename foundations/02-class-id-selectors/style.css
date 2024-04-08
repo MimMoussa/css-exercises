@@ -1,0 +1,21 @@
+.A, 
+.B {
+    background-color: #ffc0cb;
+    font-family: verdana, sans-serif;
+
+}
+
+.B {
+    
+    font-size: 24px;
+
+}
+#C{
+    color: #0000ff;
+    font-size: 36px;
+}
+#E {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
