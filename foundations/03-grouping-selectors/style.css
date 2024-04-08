@@ -1,0 +1,15 @@
+.A,
+.B {
+    font-size: 28px;
+    font-family: HELVETICA, 'Times New Roman', sans-serif;
+}
+
+.A{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.B{
+    background-color: yellow;
+}
